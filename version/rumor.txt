@@ -1,3 +1,3 @@
-1.7 - Now peds in combat are not affected by rumors
+1.3 - Now peds in combat are not affected by rumors
 New webhook, a new one has been created to alert players of the rumor, without specifying player data (metagaming)
 

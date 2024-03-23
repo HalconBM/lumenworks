@@ -1,0 +1,6 @@
+1.1 -
+* Now possible to change the menu icons to custom images, you will have to add your own images in the "img" folder. Make sure you have the modified version of redemrp_menu_base, you can download it from the lumen works discord.
+* Now possible to add new animals to the config without having to lose the progress of current animals.
+* Fixed a problem with the purchase of some items in the naturalist's store. This only affected the vorp version.
+* Added version checker.
+

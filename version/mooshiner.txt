@@ -1,0 +1,4 @@
+1.2 -
+
+* Fixed bug with the still repair prompt
+* Added version checker

@@ -1,3 +1,4 @@
-1.6 -
+1.7 -
 
-* You can modify the distance at which you can listen to the phonograph.
+* Improved performance.
+* Updated money image.

@@ -1,4 +1,4 @@
-1.7 -
+1.8 -
 
-* Improved performance.
-* Updated money image.
+* Now allows the code to react to nearby props with the model you indicate in the models variable, ideal for servers where custom props can be added in houses, stores etc
+* New "Default volume" parameter, allows to set the volume range when starting a song without the need to manipulate it initially.

@@ -1,3 +1,2 @@
-1.6 - 
-* Added new timetable function. Now you can set each npc to appear at a certain time.
-
+1.7 - 
+* Added new model configuration table for peds. The models added in this table will not have rumors. If you want to enable all of them leave the table empty {}

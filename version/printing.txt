@@ -1,3 +1,4 @@
-1.1 -
+1.2 -
 
-* Added support for redemrp and rsg frameworks.
+* Fixed a bug that did not allow the pages to be sorted correctly when the item was used
+* It is mandatory to delete the taba from the database, the code will take care of restoring it with the fix

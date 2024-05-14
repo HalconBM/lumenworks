@@ -1,4 +1,9 @@
-1.2 -
-* It is now possible to individually disable the internal store of each naturalist npc.
+1.22 -
+* Modify how the prompt is triggered to get blood (command)
+* Webhooks to track blood extraction
+* Add ability to add an optional "outfit" for each ped model. Variable like legendary scripts use (Should allow for breaking out research for ped models with different sub species such as pronghorn, foxes, owls, etc.)
+* Reward from "extracting" a table to allow for multiple items to be acquired.
+* Ability to choose "outfit" for legendary missions
+* Only allow legendary animals to be extracted if on a mission
 
 

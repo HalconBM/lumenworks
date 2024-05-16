@@ -4,3 +4,4 @@
 * New image links have been added (they should not break anymore).
 * New script-specific notifications have been integrated.
 * New discord webhook (sounds activated)
+* It is no longer necessary to specify which framework you have, it will be selected automatically.

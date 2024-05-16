@@ -1,4 +1,6 @@
-1.8 -
+1.9 -
 
-* Now allows the code to react to nearby props with the model you indicate in the models variable, ideal for servers where custom props can be added in houses, stores etc
-* New "Default volume" parameter, allows to set the volume range when starting a song without the need to manipulate it initially.
+* New settings have been added to enable music on phonographs (check config).
+* New image links have been added (they should not break anymore).
+* New script-specific notifications have been integrated.
+* New discord webhook (sounds activated)

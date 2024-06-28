@@ -1,3 +1,4 @@
-1.0 -
+1.1 -
 
-* Release
+* It is now possible to deactivate global notifications when an animal is extinct.
+* Fixed a bug that caused errors when an animal was not registered.

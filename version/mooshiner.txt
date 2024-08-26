@@ -1,4 +1,4 @@
-1.4 -
+1.41 -
 
-* Fixed bug with the still repair prompt
-* Added version checker
+* Added 2 new translation parameters for inputs
+

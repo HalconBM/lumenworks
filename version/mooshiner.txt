@@ -1,4 +1,5 @@
-1.41 -
+1.5 -
 
+* Added the possibility to choose the delivery destination randomly or selectively. To change it check the configuration file and modify the parameter called “Config.typeDeliveryMode”.
 * Added 2 new translation parameters for inputs
 

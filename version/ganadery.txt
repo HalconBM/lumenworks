@@ -1,0 +1,10 @@
+1.1 -
+
+* Added tutorials for further explanation to users
+* Fixed a bug that did not allow to satiate the animals
+* Fixed a bug that did not correctly calculate the animal's old age
+* Changed some buttons as they were conflicting with other actions in the game itself
+* Added some animations for female and male peds when performing some actions
+* Fixed some notifications when acquiring an item when collecting or grazing
+* Improved the blocking indicator for jobs, now you will not be able to see the status of the animal, only the age and current growth.
+* Added the possibility to complete the grazing on horseback but at a trot, if the maximum speed is exceeded it will pause as it happens with the player running

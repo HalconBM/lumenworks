@@ -1,4 +1,4 @@
-1.9 -
+1.91 -
 
 * New settings have been added to enable music on phonographs (check config).
 * New image links have been added (they should not break anymore).

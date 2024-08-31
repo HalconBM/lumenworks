@@ -2,4 +2,5 @@
 * Added automatic framework detector
 * Added native notifications to the code
 * Added new feature “types of rumor. Now it is possible to choose the rumor mode in three formats, global, local and both. The global mode is the same as in previous versions (it can be displayed anywhere on the map). Local mode will only allow to see the rumor in the city where the rumor is made and only the npcs of that city will be able to inform the players about these rumors. Both mode allows both types of rumors simultaneously, allowing the player to choose the mode. 
-* Different costs have been added for the 2 types of rumor. You can set the price in the config file
+* Different costs have been added for the 2 types of rumor. You can set the price in the config file.
+* Support for redemrp OLD has been discontinued.

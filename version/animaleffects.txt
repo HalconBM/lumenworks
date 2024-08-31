@@ -1,1 +1,4 @@
-create
+1.2 -
+
+* Added possibility to apply status effects when the animal is a player.
+* Added automatic framework detector

@@ -1,4 +1,4 @@
-1.41 -
+1.42 -
 
-* Added the possibility to filter jobs by grades
+* Fixed a bug that did not allow correct filtering of the allowed jobs in RSG Core.
 

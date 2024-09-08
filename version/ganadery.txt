@@ -1,4 +1,4 @@
-1.1 -
+1.2 -
 
 * Added tutorials for further explanation to users
 * Fixed a bug that did not allow to satiate the animals

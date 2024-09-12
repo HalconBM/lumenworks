@@ -1,3 +1,5 @@
-1.0 -
+1.1 -
 
-* Release
+* It is now possible to toggle between base menu or vorp menu.
+* Added possibility to use your own imput if you wish (check config).
+* Fixed a bug that did not allow to use the instruments in the RSG version.

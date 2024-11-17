@@ -1,4 +1,4 @@
-1.6 -
+1.4 -
 
 * It is now possible to deactivate the animal props so that only the animal appears, add the word “empty” in the “feeder3d” section.
 

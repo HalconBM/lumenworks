@@ -1,3 +1,3 @@
-1.4 -
-* Added 2 new logs to record blood sales and legendary quest starts.
+1.5 -
+* The code now supports multi character. Each character has an independent progression. There is no need to delete the players current progression, the code will detect the new version and make the changes in the database. Important!!! when the player interacts for the first time with the naturalist npc his progression will be assigned to that character.
 

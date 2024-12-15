@@ -1,5 +1,5 @@
-1.5 -
+1.6 -
 
-* Added the possibility to choose the delivery destination randomly or selectively. To change it check the configuration file and modify the parameter called “Config.typeDeliveryMode”.
-* Added 2 new translation parameters for inputs
+
+* Added the possibility to choose the custom path for the recipe images. It is important to update redemrp_menu_base to the latest version
 

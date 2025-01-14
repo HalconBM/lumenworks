@@ -1,5 +1,4 @@
-1.5 -
+1.9 -
 
-* Fixed a synchronization error when an aninal was sacrificed or picked up for maturation.
-* Fixed a bug that did not allow to place an animal without a drinking fountain, now the “empty” value should work.
-* Updated the sacrifice table, now allows to add more than one item to the sacrifice table. The changes are not retroactive, which means that ONLY animals placed after the update will have this feature available.
+* Release
+

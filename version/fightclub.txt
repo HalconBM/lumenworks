@@ -1,4 +1,4 @@
-1.0 -
+1.1 -
 
-* Release
+* Fixed a critical bug in the rsg version of rsg
 
